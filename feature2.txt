@@ -1,1 +1,2 @@
 hi this is feature2.txt
+I am editing from origin
